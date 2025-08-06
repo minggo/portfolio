@@ -219,5 +219,17 @@ body {
   }
 }
 
+#about-me p {
+  margin-bottom: 8px; /* 控制段落间距 */
+}
+#about-me ul {
+  margin: 6px 0; /* 列表上下间距 */
+  padding-left: 18px;
+}
+#about-me li {
+  margin-bottom: 4px; /* 列表项紧凑 */
+}
+
+
 
 
